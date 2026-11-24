@@ -32,7 +32,7 @@ C# Native AOT codec plugin for [ImageGlass v10](https://imageglass.org) that dec
 
 ## Relationship to Rust Port
 
-The Rust workspace ([B67687/Ithmb-Codec](https://github.com/B67687/Ithmb-Codec)) is the canonical version. When in doubt about format behavior, the C# version is the authoritative algorithm reference but should not be modified independently.
+The Rust workspace ([B67687/Ithmb-Codec](https://github.com/B67687/Ithmb-Codec)) is the canonical version. When in doubt about format behavior, the C# version is the algorithm reference but should not be modified independently.
 
 ## For Agents
 

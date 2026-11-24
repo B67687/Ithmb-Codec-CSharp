@@ -12,7 +12,7 @@ The following projects were the most studied during development and directly inf
 
 | Project | Author | URL | Contribution |
 | ------- | ------ | --- | ------------ |
-| iOpenPod | Savi | https://github.com/TheRealSavi/iOpenPod | 50+ format entries, encode + decode for all iPod generations. Most complete modern reference. |
+| iOpenPod | Savi | https://github.com/TheRealSavi/iOpenPod | 50+ format entries, encode + decode for all iPod generations. |
 | ithmbrdr | cyianor | https://github.com/cyianor/ithmbrdr | BT.601 coefficients, padded frame structure, multi-image seeking. |
 | Keith's iPod Photo Reader | Keith Wiley | https://github.com/kebwi/Keiths_iPod_Photo_Reader | Original 2005 RE, 13 decode methods, confirmed multi-image concatenation. |
 | andrewmalta/ithmb | Andrew Malta | https://github.com/andrewmalta/ithmb | CLCL packed-chroma layout |
@@ -22,7 +22,7 @@ The following projects were the most studied during development and directly inf
 | podkit | jvgomg | https://github.com/jvgomg/podkit | MHII/MHNI integrity validation, CLI diagnostics |
 | libgpod/gtkpod | gtkpod team | https://sourceforge.net/p/gtkpod/libgpod/ci/master/tree/ | PhotoDB chunk structure (8 chunk types, format_id linkage). C reference. |
 | gnupod | richvdh | https://github.com/richvdh/gnupod | Per-device format tables (nano_4g, classic, video, mini). Base for DeviceProfiles. |
-| Reuhno (iPod Classic 6G) | Renaud | https://github.com/reuhno | First real F-prefix samples (F1055, F1060, F1061). Validated decoders against real hardware. |
+| Reuhno (iPod Classic 6G) | Renaud | https://github.com/reuhno | Real F-prefix samples (F1055, F1060, F1061). Validated decoders against real hardware. |
 | shinyquagsire23 gist | shinyquagsire23 | https://gist.github.com/shinyquagsire23/5ac38487b4c8f9252e78e0275814c90b | F1093 512×512 RGB565 decode |
 | Steee29/ithmb_converter | Steee29 | https://github.com/Steee29/ithmb_converter | iOS 1.x format table (F3004=55×55) |
 | Mixtape | fgs8z2n9qh-tech | https://github.com/fgs8z2n9qh-tech/Mixtape | C# iPod manager with ArtworkDB support |
